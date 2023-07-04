@@ -13,9 +13,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=GreyRaphael&show_icons=true&count_private=true" />
 
-## Languages 📜
+<!-- ## Languages 📜
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyRaphael&layout=compact&langs_count=20" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyRaphael&layout=compact&langs_count=20" /> -->
 
 - ***Prefer Using*** 😄
 
