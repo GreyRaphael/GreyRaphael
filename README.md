@@ -1,4 +1,4 @@
-## Hi 👋,  I'm a passionate C++ Quant Developer in China Securities.
+## Hi 👋,  I'm a passionate C++ Quant Developer in [China Securities](https://www.linkedin.com/company/china-securities-co.-ltd./).
 
 - ***Prefer Using*** 😄
 
@@ -6,8 +6,6 @@
   <img width="40px" src="icons/languages/python.svg" />
   <img width="40px" src="icons/languages/rust.svg" />
   <img width="40px" src="icons/languages/c.svg" />
-  
-
 
 - ***Learnt a Little*** 😅
 
@@ -23,6 +21,6 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=GreyRaphael&show_icons=true&count_private=true" /> -->
 
-<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=greyraphael&" alt="greyraphael" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=greyraphael&" alt="greyraphael" />
 
 <!-- code from https://github.com/czs108/czs108 -->
