@@ -22,10 +22,10 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreyRaphael&layout=compact&langs_count=20" />  -->
 
 <div class="column" style="display:inline-block;">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=GreyRaphael&show_icons=true&count_private=true" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=GreyRaphael&show_icons=true&count_private=true" />
 </div>
 <div class="column" style="display:inline-block;">
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=greyraphael&" alt="greyraphael" />
+  <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=greyraphael&" alt="greyraphael" />
 </div>
 
 <!-- code from https://github.com/czs108/czs108 -->
