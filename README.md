@@ -4,6 +4,7 @@
 
   <img width="40px" src="icons/languages/c-plus-plus.svg" />
   <img width="40px" src="icons/languages/python.svg" />
+  <img width="40px" src="icons/languages/go.svg" />
   <img width="40px" src="icons/languages/rust.svg" />
   <img width="40px" src="icons/languages/c.svg" />
 
@@ -11,7 +12,6 @@
 
   <img width="40px" src="icons/languages/javascript.svg" />
   <img width="40px" src="icons/languages/html5.svg" />
-  <img width="40px" src="icons/languages/go.svg" />
   <img width="40px" src="icons/languages/csharp.svg" />
   <img width="40px" src="icons/languages/typescript.svg" />
 
