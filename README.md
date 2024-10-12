@@ -1,4 +1,4 @@
-## Hi 👋,  I'm a passionate C++ Quant Developer in [China Securities](https://www.linkedin.com/company/china-securities-co.-ltd./).
+## Hi 👋,  I'm a passionate C++ Quant Developer in Top4 Securities in China.
 
 - ***Prefer Using*** 😄
 
